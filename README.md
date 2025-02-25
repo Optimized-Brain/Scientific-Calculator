@@ -51,16 +51,11 @@ pip install customtkinter mpmath numpy matplotlib sympy
 4. **Graphing Functions:**
 
    - Build your function expression (e.g., `tan(x)`, `x**2 + 3*x + 2`, `sin(x)`).
-   - Click the **Graph** button.
+   - Click the **Graph** button or "ctrl+g" command.
    - In the graph options window, set:
      - **X min / X max:** The range for the x-axis.
      - **Variable:** The variable in your expression (default is `x`).
    - Click **Plot Graph** to display the function's graph.
-
-## Screenshots
-
-
-![Calculator Screenshot](screenshot.png)
 
 ## Contributing
 
