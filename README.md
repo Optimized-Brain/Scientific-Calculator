@@ -16,7 +16,7 @@ This repository contains a Python-based scientific calculator application featur
   - **Escape**: Clear the current expression.
 - **Dynamic Graph Options**: Specify the x-axis range and variable to plot the graph for any valid mathematical function.
 
-- ![Main Interface](./Calculator.png)
+- ![Main Interface](./Calculator.jpg)
 
 ## Installation
 
@@ -59,7 +59,7 @@ pip install customtkinter mpmath numpy matplotlib sympy
      - **Variable:** The variable in your expression (default is `x`).
    - Click **Plot Graph** to display the function's graph.
 
-  ![Graph Interface](./GraphSS.png)
+  ![Graph Interface](./GraphSS.jpg)
 
 ## Contributing
 
